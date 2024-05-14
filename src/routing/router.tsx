@@ -4,7 +4,7 @@ import {PageNotFound} from "../components";
 
 export const router = createBrowserRouter([
   {
-    path: "/",
+    path: "/salt-id-card/",
     element: <App/>,
     errorElement: <PageNotFound />
   }
