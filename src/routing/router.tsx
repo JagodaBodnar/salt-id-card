@@ -7,5 +7,5 @@ export const router = createBrowserRouter([
     path: "/salt-id-card/",
     element: <App/>,
     errorElement: <PageNotFound />
-  },
-]);
+  }
+  ]);
