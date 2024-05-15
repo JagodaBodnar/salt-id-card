@@ -4,8 +4,10 @@
   justify-content: center;
   width: 100vw;
   height: 100vh;
-  background-color: var(--coral-light);
+  /*background-color: var(--coral-light);*/
 }
+
+
 
 @media screen and (max-width: 1025px) {
   .root {

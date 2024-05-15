@@ -1,12 +1,13 @@
 :root{
     --white: #ffffff;
     --beige: #FFFCF2;
-    --light-gray: #ddd;
-    --medium-gray: #403d39;
+    --light-gray: #EBEBEB;
+    --medium-gray: #918f8d;
     --dark-gray: #2b2b2c;
     --coral: #FE9087;
     --blue: #1875FF;
     --green: #218838;
     --coral-light: rgba(254, 144, 135, 0.1);
-    --red: #7d3434;
+    --red: #d23535;
+    --global-color-secondary: #0F2D45;
 }
